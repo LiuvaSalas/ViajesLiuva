@@ -10,8 +10,11 @@ body {
 }
 
 #navegacion {
-  background-color: #00d9ff;
+  background-color: transparent;
   color: #ffffff;
+  position: absolute;
+  width: 100%;
+  z-index: 10;
 }
 
 #navegacion a {
