@@ -20,12 +20,34 @@ body {
 #navegacion a {
   text-decoration: none;
   color: #ffffff;
-  font-size: 12pt;
+  font-size: 10pt;
   font-weight: 300;
 }
 
 #navegacion h1 {
-  font-size: 12pt;
+  font-size: 10pt;
   font-weight: 400;
 }
 
+#quienes-somos {
+  background-color: black;
+  color: #ffffff;
+}
+
+#quienes-somos h3 {
+  font-size: 14pt;
+  font-weight: 300;
+}
+
+.icon {
+  background-color: aqua;
+}
+
+.hr-light {
+  border: none;
+  height: 1px;
+  background-color: #dddddd83;
+  /* Color claro para la línea */
+  margin: 20px 25px;
+  /* Margen superior e inferior */
+}
