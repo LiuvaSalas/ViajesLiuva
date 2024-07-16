@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+/*Body General*/
+body {
+  font-family: Roboto, Regular;
+}
+
+#navegacion {
+  background-color: #00d9ff;
+  color: #ffffff;
+}
+
+#navegacion a {
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 12pt;
+  font-weight: 300;
+}
+
+#navegacion h1 {
+  font-size: 12pt;
+  font-weight: 400;
+}
+
