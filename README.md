@@ -8,7 +8,7 @@ Plasmando los conocimientos adquiridos, creamos una landing oage para Viajes Chi
 
 ## Capturas de Pantalla del Proyecto
 
-![Home](imagenes/home.png)
+![Home](/assets/img/viajesLiuva.jpg)
 Vista inicio de la aplicación.
 
 ## Prerrequisitos o Dependencias
