@@ -1,4 +1,4 @@
-# Prueba Viajes Liuva Salas
+# Viajes Liuva Salas
 
 En este proyecto La agencia Viajes Chile solicita la creación de su landing page, con un diseño atractivo e innovador.
 
