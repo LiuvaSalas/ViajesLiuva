@@ -32,7 +32,7 @@ git clone git@github.com:LiuvaSalas/ViajesLiuva.git
 Instrucciones para ejecutar el proyecto una vez instalado.
 
 ```bash
-#
+# code .
 ```
 
 ## Autor
